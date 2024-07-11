@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
+  "spider": "https://github.com/tjyu010/tvbox/blob/main/jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -9,7 +9,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/market.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/market.json"
     },
     {
       "key": "泥巴",
@@ -36,7 +36,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "./json/wogg.json"
+        "filter": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/wogg.json"
       }
     },
     {
@@ -46,7 +46,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/jianpian.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/jianpian.json"
     },
     {
       "key": "獨播",
@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/duboku.json"
     },
     {
       "key": "haiwaikan",
@@ -106,7 +106,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "./json/douban.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/douban.json"
     },
     {
       "key": "新6V",
@@ -204,7 +204,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/bili.json",
+        "json": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -213,7 +213,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "./cat/js/bili_open.js",
+      "api": "https://raw.githubusercontent.com/tjyu010/tvbox/main/cat/js/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -244,7 +244,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/alist.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -253,7 +253,7 @@
       "api": "csp_WebDAV",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/webdav.json"
+      "ext": "https://raw.githubusercontent.com/tjyu010/tvbox/main/json/webdav.json"
     },
     {
       "key": "JustLive",
