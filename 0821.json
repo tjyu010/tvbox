@@ -22,7 +22,6 @@
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-  {"key": "快帆","name":"tjyu1┃采集","type":1,"api":"https://tjyu1.us.kg/api.php/tvbox","searchable":1,"changeable":1},
 
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
@@ -32,6 +31,7 @@
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 {"key":"lf_js_lf_live","name":"电视┃直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/tjyu010/tvbox/main/js/lf_live.txt"},
 
+ {"key": "快帆","name":"tjyu1┃采集","type":1,"api":"https://tjyu1.us.kg/api.php/tvbox","searchable":1,"changeable":1},
 
 {"key":"短剧","name":"上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -73,7 +73,7 @@
 {"key":"haiwaikan","name":"海外看┃采集","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+
 
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"https://raw.githubusercontent.com/tjyu010/tvbox/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/tjyu010/tvbox/main/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"https://raw.githubusercontent.com/tjyu010/tvbox/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/tjyu010/tvbox/main/js/奇珍异兽.js"},
