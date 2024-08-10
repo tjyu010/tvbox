@@ -2,7 +2,6 @@
 
 {"urls": [
 
-  {"name":"0826","url":"https://tjyu.us.kg/api.php/tvbox"},
   {"name":"0826","url":"https://raw.githubusercontent.com/tjyu010/tvbox/main/yinshi.json"},
   {"name":"0827","url":"https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json"},
 {"name":"0825","url":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/07061553.json"},
