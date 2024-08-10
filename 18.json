@@ -92,7 +92,7 @@
 
 {"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"映迷","name":"映迷","type":1,"api":"https://tjyu.us.kg/api.php/tvbox","searchable":1,"quickSearch":1},
 {"key":"ikun资源","name":"ikun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":0,"api":"https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml","searchable":1,"quickSearch":1},
 {"key":"ok资源","name":"ok资源","type":0,"api":"https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml","searchable":1,"quickSearch":1},
