@@ -10,7 +10,7 @@
 
             {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/ ?ac=list","searchable":1,"quickSearch":1},
               {"key":"JKUN","name":"JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
-             {"key":"番号","name":"番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/from/fhm3u8/at/xml/","searchable":1,"quickSearch":1},
+             {"key":"番号","name":"番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
   
             {"key":"老色p","name":"老色p","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
               {"key":"乐播","name":"乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
