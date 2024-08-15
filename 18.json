@@ -7,6 +7,7 @@
 
 
 "sites":[
+  {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
   
   {"key":"阿里bb","name":"阿里BB","type":1,"api":"https://bbckzy8.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
   {"key":"映迷","name":"tjyu采集","type":1,"api":"https://tjyu.us.kg/api.php/tvbox","searchable":1,"quickSearch":1},
@@ -320,6 +321,8 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "全能[①]","type": 0,"url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url="},
   {"name": "阿里BB","type": 0,"url": "https://alplayer.bbckzy.com/?url="},
+  {"name": "阿里BB","type": 0,"url": "https://help.siwam3u8.com:5278/m3u8.php?url="},
+  
   
 
 {"name": "全能[③]","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
