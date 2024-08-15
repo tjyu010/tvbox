@@ -41,7 +41,7 @@
 
 
 
-{"key":"优资资源","name":"优质资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/","searchable":1,"quickSearch":1},
+{"key":"优资资源","name":"阿里bb","type":1,"api":"https://bbckzy8.cc/api.php/provide/vod/from/alplayer/at/xml/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/zheng197600/tvbox/main/js/yinfans.json"},
 {"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/zheng197600/tvbox/blob/main/jar/custom_spider.jar"},
 {"key": "少泽影客（APP）","name": "少泽影客（APP）","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
