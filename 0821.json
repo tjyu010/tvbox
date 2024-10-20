@@ -13,27 +13,7 @@
   
    {"key":"采集","name":"t采集","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":1,"quickSearch":1},
    {"key":"采集","name":"tjyu采集","type":1,"api":"http://tjyu1.us.kg/api.php/tvbox","searchable":1,"quickSearch":1},
- {
-		"key": "豆瓣",
-		"name": "👊【老王汇整，请勿广为外流】👊",
-		"type": 3,
-		"api": "csp_Douban",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
-		"searchable": 1,
-		"quickSearch": 0,
-		"changeable": 0
-	  },
-	
-	  {
-		"key": "网盘配置",
-		"name": "Youtube、网盘、弹幕配置",
-		"type": 3,
-		"api": "csp_Config",
-		"searchable": 1,
-		"changeable": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
-		"style": {"type": "rect", "ratio": 1.5}
-	  },
+
 	  {
 		"key": "Youtube",
 		"name": "Youtube",
