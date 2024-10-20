@@ -10,8 +10,9 @@
 "sites":[
    {"key":"采集","name":"U酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
    {"key":"采集","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
-   
+  
    {"key":"采集","name":"t采集","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":1,"quickSearch":1},
+   {"key":"采集","name":"tjyu采集","type":1,"api":"http://tjyu1.us.kg/api.php/tvbox","searchable":1,"quickSearch":1},
  {
 		"key": "豆瓣",
 		"name": "👊【老王汇整，请勿广为外流】👊",
