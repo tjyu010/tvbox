@@ -1,7 +1,7 @@
 {
 
 "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;a2caecf3cb7c9cdee3106033668024aa",
-"lives":[{"name":"0821","type":0,"url":"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"}],
+"lives":[{"name":"综合","type":0,"url":"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"}],
 
 
 
@@ -21,10 +21,7 @@
 		"quickSearch": 0,
 		"changeable": 0
 	  },
-	  {
-		"key": "来源",
-		"name": "汇整接口包括：RobYang、饭太硬、OKjack、唐三、茄子库、肥猫、PG佬、qist、高山流水、欧歌、道长、忐忑......还有好多好多github上面分享的前辈"
-	  },
+	
 	  {
 		"key": "网盘配置",
 		"name": "Youtube、网盘、弹幕配置",
