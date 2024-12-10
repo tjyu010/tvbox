@@ -14,7 +14,7 @@
     {"key":"黑木耳","name":"黑木耳","type":0,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
     {"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":0},
    {"key":"虎牙","name":"虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-    {"key":"陶片","name":"陶片","type":0,"api":" https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":0,"quickSearch":0},
+    {"key":"陶片","name":"陶片","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":0,"quickSearch":0},
   
 
 
