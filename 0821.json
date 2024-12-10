@@ -10,9 +10,11 @@
 "sites":[
    
    {"key":"t","name":"t","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":0,"quickSearch":0},
-   {"key":"华为","name":"华为","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
+   {"key":"华为","name":"华为","type":0,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
     {"key":"黑木耳","name":"黑木耳","type":0,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
     {"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":0},
+   {"key":"虎牙","name":"虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+
 
 
 
@@ -79,8 +81,8 @@
 
 {"name": "黑木耳","type": 0,"url": "https://hoplayer.com/index.html?url="},
 {"name": "卧龙","type": 0,"url": "https://jx.wolongm3u8.com:65/m3u8.php?url="},
+{"name": "虎牙","type": 0,"url": "https://huyajx.com/play?url="},
 
-	
 {"name":"鸿途手动解析","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"鸿途手动解析2","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
