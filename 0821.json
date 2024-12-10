@@ -15,7 +15,16 @@
     {"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":0},
    {"key":"虎牙","name":"虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
     {"key":"陶片","name":"陶片","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":0,"quickSearch":0},
-  
+     {"key":"IKUN","name":"IKUN","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":0,"quickSearch":0},
+     {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml","searchable":0,"quickSearch":0},
+     {"key":"极速","name":"极速","type":0,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json","searchable":0,"quickSearch":0},
+     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+
+     {"key":"豪华","name":"豪华","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":0,"quickSearch":0},
+
+     {"key":"红牛","name":"红牛","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/","searchable":0,"quickSearch":0},
+
+     {"key":"红牛","name":"红牛","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},	
 
 
 
@@ -80,10 +89,21 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "全能[①]","type": 0,"url": "https://player.dphw8.com/player?url="},
 
+{"name": "ikun","type": 0,"url": "https://www.ikdmjx.com/?url="},
 {"name": "黑木耳","type": 0,"url": "https://hoplayer.com/index.html?url="},
 {"name": "卧龙","type": 0,"url": "https://jx.wolongm3u8.com:65/m3u8.php?url="},
 {"name": "虎牙","type": 0,"url": "https://huyajx.com/play?url="},
+{"name": "索尼","type": 0,"url": "https://www.snplayer.com/?url="},
+{"name": "极速","type": 0,"url": "https://jsjiexi.com/play/?url="},
 
+{"name": "豪华","type": 0,"url": "https://hhjiexi.com/play/?url="},
+
+{"name": "红牛","type": 0,"url": "https://www.hnjiexi.com/m3u8/?url="},
+{"name": "红牛加速","type": 0,"url": "https://www.hongniujiexi.com/m3u8/?url="},
+
+
+{"name": "魔都","type": 0,"url": "https://jiexi.modujx01.com/?url="},
+	
 {"name":"鸿途手动解析","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"鸿途手动解析2","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
