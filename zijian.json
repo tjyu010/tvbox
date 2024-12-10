@@ -11,12 +11,7 @@
   {"name":"0914","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json"},
   
   {"name":"fa","url":"https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"},
-   {"url": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json", "name": "影视"},
- {
-    
-      "url": "https://raw.githubusercontent.com/s14685/tv/main/ysc.json",
-      "name": "s14685"
-        },
+
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "xc"
