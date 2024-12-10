@@ -9,10 +9,10 @@
 
 "sites":[
    
-   {"key":"t","name":"t","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":0,"quickSearch":1},
-   {"key":"华为","name":"华为","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":1},
-    {"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-    {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":1},
+   {"key":"t","name":"t","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":0,"quickSearch":0},
+   {"key":"华为","name":"华为","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
+    {"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
+    {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":0},
 
 
 
