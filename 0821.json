@@ -9,16 +9,16 @@
 
 "sites":[
    
-   {"key":"t","name":"t","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":0,"quickSearch":0},
-   {"key":"华为","name":"华为","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
-    {"key":"黑木耳","name":"黑木耳","type":0,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
-    {"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":0,"quickSearch":0},
-   {"key":"虎牙","name":"虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-    {"key":"陶片","name":"陶片","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":0,"quickSearch":0},
-     {"key":"IKUN","name":"IKUN","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":0,"quickSearch":0},
-     {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml","searchable":0,"quickSearch":0},
-     {"key":"极速","name":"极速","type":0,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json","searchable":0,"quickSearch":0},
-     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+   {"key":"t","name":"t","type":1,"api":"https://xinliang.serv00.net/api.php/tvbox","searchable":1,"quickSearch":1},
+   {"key":"华为","name":"华为","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"黑木耳","name":"黑木耳","type":0,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":0},
+   {"key":"虎牙","name":"虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+    {"key":"陶片","name":"陶片","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":0},
+     {"key":"IKUN","name":"IKUN","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+     {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml","searchable":1,"quickSearch":1},
+     {"key":"极速","name":"极速","type":0,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json","searchable":1,"quickSearch":1},
+     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":1},
 
      {"key":"豪华","name":"豪华","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":0,"quickSearch":0},
 
