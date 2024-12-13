@@ -1,0 +1,75 @@
+{
+    "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/T00700.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
+    "wallpaper": "https://raw.gitmirror.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
+    "warningText": "",
+    "lives": [
+        {
+            "name": "自营直播",
+            "type": 0,
+            "boot": true,
+            "url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
+        }
+    ],
+    "sites": [
+        {
+            "key": "暴风资源",
+            "name": "暴风资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "categories": [
+                "电影片",
+                "国产剧",
+                "韩国剧",
+                "欧美剧",
+                "大陆综艺",
+                "日韩综艺",
+                "国产动漫",
+                "日韩动漫",
+                "福利",
+                "记录片"
+            ]
+        },
+        {
+            "key": "非凡资源",
+            "name": "非凡资源",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "韩国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "伦理片",
+                "欧美动漫",
+                "记录片"
+            ]
+        },
+        {
+            "key": "量子资源",
+            "name": "量子资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "韩国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                 "伦理片",
+                "欧美动漫",
+                "记录片"
+            ]
+        }
+    ]
+}
