@@ -8,8 +8,10 @@
 {"name":"0821","url":"https://raw.githubusercontent.com/tjyu010/tvbox/main/0821.json"},
 
   {"name":"1210","url":"https://raw.githubusercontent.com/tjyu010/tvbox/refs/heads/main/1210.json"},
- 
-  {"name":"fa","url":"https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"},
+   {"name":"app","url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/app.json"},
+  
+ {"name":"fa","url":"https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"},
+  {"name":"fan","url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/fan.json"},
   {"name":"svip","url":"https://raw.githubusercontent.com/woniuxs/TVBOX/refs/heads/main/svip"},
   {"name":"T00700","url":"https://raw.githubusercontent.com/tjyu010/tvbox/refs/heads/main/T00700.json"},
   
