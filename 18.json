@@ -8,7 +8,7 @@
 
 "sites":[
             
-            {"key":"192","name":"192","type":1,"api":"http://192.168.1.247:8080//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+            {"key":"0304","name":"0304","type":1,"api":"https://raw.githubusercontent.com/tjyu010/tvbox/refs/heads/main/0304.json","searchable":1,"quickSearch":1},
             {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
               {"key":"JKUN","name":"JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
              {"key":"番号","name":"番号","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
