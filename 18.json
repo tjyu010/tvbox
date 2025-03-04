@@ -9,23 +9,24 @@
 "sites":[
             
             {"key":"192","name":"192","type":1,"api":"http://192.168.1.247:8080//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-            {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/ ?ac=list","searchable":1,"quickSearch":1},
+            {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
               {"key":"JKUN","name":"JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
              {"key":"番号","name":"番号","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+            {"key":"X细胞","name":"X细胞","type":0,"api":"https://www.xxibaozyw.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
             
             {"key":"极品","name":"极品","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-            {"key":"老色p","name":"老色p","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+            {"key":"老色p","name":"老色p","type":1,"api":"https://apilsbzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
               {"key":"乐播","name":"乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-             {"key":"KK","name":"KK","type":1,"api":"https://kkzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+             
             {"key":"115","name":"115","type":1,"api":"https://155api.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
           {"key":"辣椒","name":"辣椒","type":1,"api":"https://apilj.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-           {"key":"草榴","name":"草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
+           {"key":"草榴","name":"草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
        {"key":"鲨鱼","name":"鲨鱼","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-       {"key":"老鸭","name":"老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-       {"key":"精品x","name":"精品x","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+       
+       
      
     {"key":"黄瓜","name":"黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-    {"key":"搞起","name":"搞起","type":1,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
+    
    {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
    {"key":"优优","name":"优优","type":1,"api":"https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
   {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
@@ -116,15 +117,16 @@
   {"name": "丝袜","type": 0,"url": "https://help.siwam3u8.com:5278/m3u8.php?url="},
   {"name": "五月","type": 0,"url": "https://www.wuyuezy.net/m3u8/?url="},
   {"name": "奥斯卡","type": 0,"url": "https://aosikazyplayurl.com/play.html?url="},
- {"name": "黄瓜","type": 0,"url": "https://player.avre14.com:54188/player/?url="},
+ {"name": "黄瓜","type": 0,"url": "https://player.hgplayer00.com:54188/player/?url="},
 {"name": "搞起","type": 0,"url": "https://jiexi.gqjiexi.com/?url="},
   {"name": "老色","type": 0,"url": "https://playlaosebi.com/?url="},
+{"name": "X细胞","type": 0,"url": "https://www.xxibaozyw.com/player.php/?url="},
  
 {"name": "搞起","type": 0,"url": "https://player.77lehuo.com/aliplayer/?url="},
   {"name": "115","type": 0,"url": "https://www.155jx.com/?url="},
   
   {"name": "JKUN","type": 0,"url": "https://www.jkunjx.com/?url="},
-   {"name": "奥斯卡","type": 0,"url": "https://aosikazyplayurl.com/? url="},
+   {"name": "奥斯卡","type": 0,"url": "https://askvodbf.com/play.html?url="},
   
   {"name": "草榴","type": 0,"url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url="},
   
