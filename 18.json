@@ -7,7 +7,10 @@
 
 
 "sites":[
-            
+              {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/y03110619/tvbox/refs/heads/main/福利.json",
+      "name": "🎄福利"
+    },
             {"key":"0304","name":"0304","type":1,"api":"https://raw.githubusercontent.com/tjyu010/tvbox/refs/heads/main/0304.json","searchable":1,"quickSearch":1},
             {"key":"奥斯卡","name":"奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
               {"key":"JKUN","name":"JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
