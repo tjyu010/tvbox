@@ -20,7 +20,10 @@
      {"key":"极速","name":"极速","type":0,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json","searchable":1,"quickSearch":1},
      {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":1},
 
-     {"key":"豪华","name":"豪华","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":0,"quickSearch":0},
+     {"key":"茅台","name":"茅台","type":0,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/","searchable":0,"quickSearch":1},
+      {"key":"如意","name":"如意","type":0,"api":"https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/","searchable":0,"quickSearch":1},
+     
+      
 
      {"key":"红牛","name":"红牛","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/","searchable":0,"quickSearch":0},
 
@@ -30,6 +33,7 @@
 
 	
 
+{"key":"小鸡","name":"小鸡","type":1,"api":"https://api.xiaojizy.live/provide/vod?ac=list","searchable":0,"quickSearch":0},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
 {"key":"155资源网","name":"155资源网","type":1,"api":"https://155api.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"皇冠资源","name":"皇冠资源","type":0,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
@@ -88,6 +92,8 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "全能[①]","type": 0,"url": "https://player.dphw8.com/player?url="},
+{"name": "如意","type": 0,"url": "https://ryplayer.com/?url="},
+{"name": "如意","type": 0,"url": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl="},
 
 {"name": "ikun","type": 0,"url": "https://www.ikdmjx.com/?url="},
 {"name": "黑木耳","type": 0,"url": "https://hoplayer.com/index.html?url="},
@@ -97,6 +103,8 @@
 {"name": "极速","type": 0,"url": "https://jsjiexi.com/play/?url="},
 
 {"name": "豪华","type": 0,"url": "https://hhjiexi.com/play/?url="},
+{"name": "茅台","type": 0,"url": "https://mtjiexi.cc:966/?url="},
+{"name": "茅台2","type": 0,"url": "https://www.mtjiexi.cc:966/?url="},
 
 {"name": "红牛","type": 0,"url": "https://www.hnjiexi.com/m3u8/?url="},
 {"name": "红牛加速","type": 0,"url": "https://www.hongniujiexi.com/m3u8/?url="},
