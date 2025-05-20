@@ -121,10 +121,10 @@
   "filterable": 0   // 建议补充过滤参数
 },
       {
-  "key": "细胞",
-  "name": "细胞",
+  "key": "gay",
+  "name": "gay",
   "type": 1,
-  "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+  "api": "https://gayapi.com/api.php/provide/vod/at/xml",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
