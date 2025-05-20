@@ -151,7 +151,7 @@
   "key": "115",
   "name": "115",
   "type": 1,
-  "api": https://155api.com/api.php/provide/vod/?ac=list",
+  "api": "https://155api.com/api.php/provide/vod/?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
@@ -160,7 +160,7 @@
   "key": "色猫",
   "name": "色猫",
   "type": 1,
-  "api": https://caiji.semaozy.net/inc/apijson_vod.php",
+  "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
@@ -169,7 +169,7 @@
   "key": "小鸡",
   "name": "小鸡",
   "type": 1,
-  "api": https://api.xiaojizy.live/provide/vod?ac=list",
+  "api": "https://api.xiaojizy.live/provide/vod?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
@@ -178,7 +178,10 @@
 			"key": "py_浴火社",
 			"name": "浴火社(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py"
+			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py",
+	                  "searchable": 1,
+                        "quickSearch": 1,
+                         "filterable": 0
 		},
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0},
 {"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},
