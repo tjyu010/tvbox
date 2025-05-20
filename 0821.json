@@ -21,9 +21,16 @@
      {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":1},
 
      {"key":"茅台","name":"茅台","type":0,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/","searchable":0,"quickSearch":1},
-      {"key":"如意","name":"如意","type":0,"api":"https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/","searchable":0,"quickSearch":1},
-     
       
+      {
+  "key": "如意",
+  "name": "如意",
+  "type": 1,  // 通常1表示点播源
+  "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/?token=YOUR_TOKEN",
+  "searchable": 1,  // 保持可搜索状态
+  "quickSearch": 1,
+  "filterable": 0   // 建议补充过滤参数
+},
 
      {"key":"红牛","name":"红牛","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/","searchable":0,"quickSearch":0},
 
@@ -31,7 +38,7 @@
 
 
 
-	
+{"key":"小鸡","name":"小鸡","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},	
 
 {"key":"小鸡","name":"小鸡","type":1,"api":"https://api.xiaojizy.live/provide/vod?ac=list","searchable":0,"quickSearch":0},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
