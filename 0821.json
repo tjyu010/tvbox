@@ -18,6 +18,14 @@
       "searchable": 1,
       "quickSearch": 1
     },
+      {
+      "key": "高清",
+      "name": "高清",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
       "key": "华为",
       "name": "华为",
@@ -98,7 +106,7 @@
   "key": "如意",
   "name": "如意",
   "type": 1,  // 通常1表示点播源
-  "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/?token=YOUR_TOKEN",
+  "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
   "searchable": 1,  // 保持可搜索状态
   "quickSearch": 1,
   "filterable": 0   // 建议补充过滤参数
@@ -116,7 +124,7 @@
   "key": "细胞",
   "name": "细胞",
   "type": 1,
-  "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+  "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
@@ -125,25 +133,44 @@
   "key": "鲨鱼",
   "name": "鲨鱼",
   "type": 1,
-  "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+  "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
 },
 {
-  "key": "鲨鱼",
-  "name": "鲨鱼",
+  "key": "115",
+  "name": "115",
   "type": 1,
-  "api": "https://155api.com/api.php/provide/vod/?ac=list",
+  "api": https://155api.com/api.php/provide/vod/?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
 },
-
-
-{"key":"小鸡","name":"小鸡","type":1,"api":"https://api.xiaojizy.live/provide/vod?ac=list","searchable":1,"quickSearch":0},
-{"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},
-
+{
+  "key": "色猫",
+  "name": "色猫",
+  "type": 1,
+  "api": https://caiji.semaozy.net/inc/apijson_vod.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
+  "key": "小鸡",
+  "name": "小鸡",
+  "type": 1,
+  "api": https://api.xiaojizy.live/provide/vod?ac=list",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
+			"key": "py_浴火社",
+			"name": "浴火社(T3)",
+			"type": 3,
+			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py"
+		},
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0},
 {"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},
 {"key":"jkun资源","name":"jkun资源","type":1,"api":"https://www.jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
@@ -202,6 +229,8 @@
 {"name": "全能[①]","type": 0,"url": "https://player.dphw8.com/player?url="},
 {"name": "如意","type": 0,"url": "https://ryplayer.com/?url="},
 {"name": "如意","type": 0,"url": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl="},
+
+{"name": "云毛","type": 0,"url": "https://yparse.ik9.cc/index.php?url="},
 
 {"name": "如意","type": 0,"url": "https://shayujx.com/?url="},
 {"name": "ikun","type": 0,"url": "https://www.ikdmjx.com/?url="},
