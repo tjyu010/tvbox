@@ -169,20 +169,12 @@
   "key": "小鸡",
   "name": "小鸡",
   "type": 1,
-  "api": "https://api.xiaojizy.live/provide/vod?ac=list",
+  "api": "https://api.xiaojizy.live/provide/vod?at=xml&ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
 },
-{
-			"key": "py_浴火社",
-			"name": "浴火社(T3)",
-			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py",
-	                  "searchable": 1,
-                        "quickSearch": 1,
-                         "filterable": 0
-		},
+
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hgzy05.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0},
 {"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0},
 {"key":"jkun资源","name":"jkun资源","type":1,"api":"https://www.jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
@@ -240,7 +232,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "全能[①]","type": 0,"url": "https://player.dphw8.com/player?url="},
 {"name": "如意","type": 0,"url": "https://ryplayer.com/?url="},
-{"name": "如意","type": 0,"url": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl="},
+{"name": "xiaoji","type": 0,"url": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl="},
 
 {"name": "云毛","type": 0,"url": "https://yparse.ik9.cc/index.php?url="},
 
