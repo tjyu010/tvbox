@@ -217,6 +217,51 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	    {
+      "key": "huangcangku",
+      "name": "黄仓库",
+      "type": 0,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	   {
+      "key": "souav",
+      "name": "搜av",
+      "type": 0,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	     {
+      "key": "xiaoji",
+      "name": "小鸡",
+      "type": 0,
+      "api": "https://api.xjzyapi.xyz/provide/vod?at=xml&ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	      {
+      "key": "caobi",
+      "name": "草",
+      "type": 0,
+      "api": "https://www.caobizy.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	        {
+      "key": "doudou",
+      "name": "豆豆",
+      "type": 0,
+      "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     	  {
       "key": "xingba",
       "name": "性吧",
