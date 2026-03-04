@@ -22,7 +22,7 @@
       "filterable": 1,
       "ext": {
                "首页":"韩国主播",
-               "分类url": "https://wxts.wuxiants400.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+               "分类url": "https://wxts.wuxiants582.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                "数组": "class=\"thumbnail\"&&</li>",
                "图片": "src=\"&&\"",
                "链接": "href=\"&&\"",
