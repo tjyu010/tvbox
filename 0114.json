@@ -16,7 +16,7 @@
       "name": "无限臀山",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/tjyu010/tvbox/blob/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/tjyu010/tvbox/refs/heads/main/jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
