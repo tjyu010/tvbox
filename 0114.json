@@ -221,7 +221,7 @@
       "key": "huangcangku",
       "name": "黄仓库",
       "type": 0,
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
+      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -230,7 +230,7 @@
       "key": "souav",
       "name": "搜av",
       "type": 0,
-      "api": "https://api.souavzyw.net/api.php/provide/vod/at/xml/",
+      "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
